@@ -1,2 +1,2 @@
 # Registration-System
-Simple registration system, using python, sockets and my github.com/NPS809/PyDataSaver
+Simple registration system, using python, sockets and my [DataSaver](github.com/NPS809/PyDataSaver)
